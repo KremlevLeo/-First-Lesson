@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hard Hello User", "Hard Hel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The maximum of six", "The maximum of six\The maximum of six.csproj", "{3B7A57C9-D1CE-4423-BA96-7CDBD82D6E3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle and dots", "Triangle and dots\Triangle and dots.csproj", "{50754DEB-81C7-4F8A-938D-DB425A50F2E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{3B7A57C9-D1CE-4423-BA96-7CDBD82D6E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B7A57C9-D1CE-4423-BA96-7CDBD82D6E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B7A57C9-D1CE-4423-BA96-7CDBD82D6E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50754DEB-81C7-4F8A-938D-DB425A50F2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50754DEB-81C7-4F8A-938D-DB425A50F2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50754DEB-81C7-4F8A-938D-DB425A50F2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50754DEB-81C7-4F8A-938D-DB425A50F2E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
