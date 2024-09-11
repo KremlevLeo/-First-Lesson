@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTN", "DTN\DTN.csproj", "{6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hard Hello User", "Hard Hello User\Hard Hello User.csproj", "{CF929453-9253-4044-B6E3-8B075781D7A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The maximum of six", "The maximum of six\The maximum of six.csproj", "{3B7A57C9-D1CE-4423-BA96-7CDBD82D6E3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CF929453-9253-4044-B6E3-8B075781D7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF929453-9253-4044-B6E3-8B075781D7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF929453-9253-4044-B6E3-8B075781D7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7A57C9-D1CE-4423-BA96-7CDBD82D6E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7A57C9-D1CE-4423-BA96-7CDBD82D6E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7A57C9-D1CE-4423-BA96-7CDBD82D6E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7A57C9-D1CE-4423-BA96-7CDBD82D6E3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

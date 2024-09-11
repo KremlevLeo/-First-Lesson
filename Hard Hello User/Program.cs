@@ -10,8 +10,9 @@
             {
                 Console.WriteLine($"Oh! Hi {userName}");
             }
-            else { 
-            Console.WriteLine($"Hello, {userName}");
+            else
+            {
+                Console.WriteLine($"Hello, {userName}");
             }
             Console.ReadLine();
         }
